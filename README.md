@@ -4,7 +4,7 @@
 Aplikasi Partisipasi Kelas ini dirancang untuk mempermudah pencatatan dan pelacakan partisipasi siswa di kelas. Aplikasi ini memungkinkan pengajar atau penilai lain untuk memberikan penilaian partisipasi, kualitas berbicara, dan tingkat keterlibatan siswa. Siswa juga dapat melihat riwayat penilaian mereka, sementara administrator dapat memantau statistik dan penilaian terbaru.
 
 ## Teknologi yang Digunakan
-Website ini dibangun dengan bahasa pemrograman **PHP** untuk bagian fungsionalitas server (backend) dan manajemen database. Untuk tampilan sisi depan (frontend) yang interaktif dan menarik, kami menggunakan kombinasi **HTML** dan **CSS**. Database yang digunakan adalah **MySQL**, yang berfungsi sebagai tempat penyimpanan semua data terkait siswa, kelas, penilai, dan catatan partisipasi.
+Website ini dibangun dengan bahasa pemrograman **PHP** untuk bagian fungsionalitas server (backend) dan manajemen database. Untuk tampilan sisi depan (frontend) yang interaktif dan menarik, saya menggunakan kombinasi **HTML** dan **CSS**. Database yang digunakan adalah **MySQL**, yang berfungsi sebagai tempat penyimpanan semua data terkait siswa, kelas, penilai, dan catatan partisipasi.
 
 ### Struktur Proyek:
 - [`index.php`](https://github.com/alvinzanuaputra/partisipasikelas/blob/main/index.php): Halaman utama aplikasi yang menyediakan portal untuk siswa, penilai, dan admin.
