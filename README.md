@@ -34,4 +34,4 @@ Dengan kombinasi PHP, HTML, CSS, dan MySQL, aplikasi ini menyediakan solusi yang
 - [`partisipasi_kelas.sql`](https://github.com/alvinzanuaputra/partisipasikelas/blob/main/partisipasi_kelas.sql): Ini adalah skrip SQL yang digunakan untuk membuat struktur database `partisipasi_kelas` dan mengisi data awal ke dalam tabel-tabel seperti `students`, `classes`, `assessors`, `enrollments`, dan `participations`. Ini mendefikasikan skema tabel dan data sampel.
 
 Secara keseluruhan, [`index.php`](https://github.com/alvinzanuaputra/partisipasikelas/blob/main/index.php), [`database.php`](https://github.com/alvinzanuaputra/partisipasikelas/blob/main/database.php) dan file HTML/CSS/JS lainnya membentuk tampilan depan, [`api.php`](https://github.com/alvinzanuaputra/partisipasikelas/blob/main/api.php) dan [`config.php`](https://github.com/alvinzanuaputra/partisipasikelas/blob/main/config.php) menangani logika server dan koneksi database, dan [`partisipasi_kelas.sql`](https://github.com/alvinzanuaputra/partisipasikelas/blob/main/partisipasi_kelas.sql) adalah untuk setup database.
-# partisipasikelas
+
